@@ -9,11 +9,11 @@ Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
 # Source0-md5:	0ffa638d8929a59b81f65394cf4a4ff5
 URL:		http://www.xemacs.org/
-BuildArch:	noarch
 Requires:	xemacs
-Requires:	xemacs-mail-lib-pkg
-Requires:	xemacs-devel-pkg
 Requires:	xemacs-base-pkg
+Requires:	xemacs-devel-pkg
+Requires:	xemacs-mail-lib-pkg
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
