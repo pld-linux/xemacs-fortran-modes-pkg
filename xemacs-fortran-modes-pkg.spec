@@ -22,7 +22,7 @@ standards), moved from xemacs-prog-modes package.
 
 %description -l pl
 XEmacsowe tryby do jêzyka programowania Fortran (w standardach Fortran
-77 i 90), wyjêta z pakietu xemacs-prog-modes.
+77 i 90), wyjête z pakietu xemacs-prog-modes.
 
 %prep
 %setup -q -c
