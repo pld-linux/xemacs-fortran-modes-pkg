@@ -1,6 +1,6 @@
 %define 	srcname	fortran-modes
 Summary:	XEmacs modes for Fortran programming language
-Summary(pl):	XEmacsowe tryby do jêzyka programowania Fortran
+Summary(pl.UTF-8):   XEmacsowe tryby do jÄ™zyka programowania Fortran
 Name:		xemacs-%{srcname}-pkg
 Version:	1.04
 Release:	1
@@ -20,9 +20,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 XEmacs modes for Fortran programming language (Fortran 77 and 90
 standards), moved from xemacs-prog-modes package.
 
-%description -l pl
-XEmacsowe tryby do jêzyka programowania Fortran (w standardach Fortran
-77 i 90), wyjête z pakietu xemacs-prog-modes.
+%description -l pl.UTF-8
+XEmacsowe tryby do jÄ™zyka programowania Fortran (w standardach Fortran
+77 i 90), wyjÄ™te z pakietu xemacs-prog-modes.
 
 %prep
 %setup -q -c
