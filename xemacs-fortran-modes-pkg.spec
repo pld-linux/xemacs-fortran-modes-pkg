@@ -1,6 +1,6 @@
 %define 	srcname	fortran-modes
 Summary:	XEmacs modes for Fortran programming language
-Summary(pl.UTF-8):   XEmacsowe tryby do języka programowania Fortran
+Summary(pl.UTF-8):	XEmacsowe tryby do języka programowania Fortran
 Name:		xemacs-%{srcname}-pkg
 Version:	1.04
 Release:	1
