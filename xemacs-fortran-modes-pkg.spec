@@ -2,12 +2,12 @@
 Summary:	XEmacs modes for Fortran programming language
 Summary(pl.UTF-8):	XEmacsowe tryby do języka programowania Fortran
 Name:		xemacs-%{srcname}-pkg
-Version:	1.04
+Version:	1.05
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	0ffa638d8929a59b81f65394cf4a4ff5
+# Source0-md5:	2c2545602482660ad0d811b0574a3eed
 URL:		http://www.xemacs.org/
 Requires:	xemacs
 Requires:	xemacs-base-pkg
